@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="om_kalthoum">Om Kalthoum</string>
+    <string name="wardah">Wardah</string>
+    <string name="abdelhaleim">Abdelhaleim</string>
+    <string name="mohammed_farid">Mohammed Farid</string>
+    <string name="ahmed_mekky">Ahmed Mekky</string>
+    <string name="play_music">Play Music</string>
+    <string name="arabic_songs">Arabic Songs</string>
+    <string name="english_songs">English Songs</string>
+    <string name="classic">Classic</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="menu">Menu</string>
+</resources>

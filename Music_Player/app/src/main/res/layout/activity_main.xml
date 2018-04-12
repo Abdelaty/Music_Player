@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    tools:context="com.example.abdel.musicplayer.MainActivity">
+
+    <Button
+        android:id="@+id/arabic_Songs"
+        style="@android:style/Widget.Holo.Button.Inset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="#7c42bd"
+        android:text="@string/arabic_songs"
+        android:textColor="#ffff" />
+
+    <Button
+        android:id="@+id/english_songs"
+        style="@android:style/Widget.Holo.Button.Inset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/arabic_Songs"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="#7c42bd"
+        android:text="@string/english_songs"
+        android:textColor="#ffff" />
+
+
+</RelativeLayout>

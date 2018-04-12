@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="om_kalthoum">Om Kalthoum</string>
+    <string name="wardah">Wardah</string>
+    <string name="abdelhaleim">Abdelhaleim</string>
+    <string name="mohammed_farid">Mohammed Farid</string>
+    <string name="ahmed_mekky">Ahmed Mekky</string>
+    <string name="play_music">Play Music</string>
+    <string name="arabic_songs">Arabic Songs</string>
+    <string name="english_songs">English Songs</string>
+    <string name="classic">Classic</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="menu">Menu</string>
+    <string name="omKalthumTracks">Number of Tracks: 210</string>
+    <string name="omKalthoumAlbums">Number of Albums: 15</string>
+    <string name="eminem">Eminem</string>
+    <string name="eminemAlbums">Number of Albums: 1</string>
+    <string name="eminemTracks">Number of Tracks: 19 Track</string>
+    <string name="Revivle"> Revivle</string>
+    <string name="revivle">REVIVLE</string>
+    <string name="artists">Artists</string>
+    <string name="english">English Music</string>
+    <string name="arabic">Arabic Music</string>
+    <string name="main">Main</string>
+    <string name="om_kalthoum_tracks">Om Kalthoum Tracks</string>
+    <string name="eminem_tracks">Eminem Tracks</string>
+    <string name="hello_world" />
+    <string name="setting">setting</string>
+    <string name="search">search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_search">Search</string>
+    <string name="music_player">Music Player</string>
+    <string name="home">Home</string>
+    <string name="playingNow">Playing Now</string>
+    <string name="back">back</string>
+    <string name="arabic_artists">Arabic Artists</string>
+
+</resources>
